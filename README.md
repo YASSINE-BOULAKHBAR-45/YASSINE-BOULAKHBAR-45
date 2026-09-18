@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="[https://avatars.githubusercontent.com/u/254519525?v=4&size=64](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAs0_6bSoTP0Ad1US2I2KQ5rBu6Zue9fzklpHwzqT58w&s)" alt="My Profile Picture" width="100px" height="100px"/>
+
 # 👋 Hi, I'm Yassine Boulakhbar
 
 ### 💻 Junior Full-Stack Web Developer
