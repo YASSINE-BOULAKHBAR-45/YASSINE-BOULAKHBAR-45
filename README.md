@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" alt="My Profile Picture" width="100px" height="100px"/>
+<img src="profile.png" alt="My Profile Picture" width="100px" height="100px"/>
 
 # 👋 Hi, I'm Yassine Boulakhbar
 
