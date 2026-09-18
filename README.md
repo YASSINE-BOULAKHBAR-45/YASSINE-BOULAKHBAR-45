@@ -11,7 +11,8 @@ I’m a junior developer focused on **Web Development**, currently improving my 
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/>
+<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/> -->
+<img src="./assets/yassine-banner.gif" width="55%" alt="Hello, I'm Yassine"/>
 
 </div>
 
