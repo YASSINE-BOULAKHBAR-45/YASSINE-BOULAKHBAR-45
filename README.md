@@ -23,6 +23,7 @@ I’m a junior developer focused on **Web Development**, currently improving my 
 
 ```javascript
 const yassine = {
+
     role: "Junior Full-Stack Web Developer",
 
     frontend: [
