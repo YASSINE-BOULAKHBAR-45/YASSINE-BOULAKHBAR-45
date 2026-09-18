@@ -11,9 +11,9 @@ I’m a junior developer focused on **Web Development**, currently improving my 
 
 <br>
 
-<div>
-    
-<img src="[./assets/yassine-banner.gif](https://capsule-render.vercel.app/api?type=slice&height=300&color=timeGradient&section=header&reversal=true&text=Hello+Coders+&textBg=false&fontSize=80&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)" width="55%" alt="Hello, I'm Yassine"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yassine+Boulakhbar;Junior+Full-Stack+Web+Developer;React+%7C+Laravel+%7C+PHP+%7C+Python;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 </div>
 
