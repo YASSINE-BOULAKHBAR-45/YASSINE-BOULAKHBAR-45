@@ -11,8 +11,7 @@ I’m a junior developer focused on **Web Development**, currently improving my 
 
 <br>
 
-<!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" alt="Hello Coders"/> -->
-<img src="./assets/yassine-banner.gif" width="55%" alt="Hello, I'm Yassine"/>
+https://capsule-render.vercel.app/api?type=slice&height=300&color=timeGradient&section=header&reversal=true&text=Hello+Coders+&textBg=false&fontSize=80&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
 
 </div>
 
