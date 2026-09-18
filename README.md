@@ -11,7 +11,7 @@ I’m a junior developer focused on **Web Development**, currently improving my 
 
 <br>
 
-https://capsule-render.vercel.app/api?type=slice&height=300&color=timeGradient&section=header&reversal=true&text=Hello+Coders+&textBg=false&fontSize=80&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
+<img src="[./assets/yassine-banner.gif](https://capsule-render.vercel.app/api?type=slice&height=300&color=timeGradient&section=header&reversal=true&text=Hello+Coders+&textBg=false&fontSize=80&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)" width="55%" alt="Hello, I'm Yassine"/>
 
 </div>
 
